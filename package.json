@@ -1,0 +1,19 @@
+{
+  "name": "cardinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gstavr/CardPlugIn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gstavr/CardPlugIn/issues"
+  },
+  "homepage": "https://github.com/gstavr/CardPlugIn#readme"
+}

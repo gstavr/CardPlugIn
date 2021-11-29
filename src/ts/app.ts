@@ -1,5 +1,4 @@
-
-
+import {employee} from './employee';
 
 
 function addAndHandle(n1:number, n2:number, cb: (num:number) => number){
@@ -21,4 +20,10 @@ function addCallback(callback: (text:string)=> void){
 
 addCallback((test:string)=>{
     console.log(test);
+
+    let emp:employee = new employee('George', 30);
+    console.log(emp._name);
 });
+
+
+
